@@ -21,3 +21,5 @@ You will be asked to choose a position between 1 to 9.
  
  The game is designed such that computer plays optimally and there is no chance for the player to win.
  However, you can draw the match if you play optimally ;)
+ 
+ -----*****-----
